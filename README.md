@@ -2,7 +2,7 @@
 
 https://www.mercadonegro.online
 
-Mercado Negro está insiparo por Mercado Libre. Permite a los usuario crear tiendas para publicar artículos y venderlos, y también les permite realizar comprar
+**Decidi crear Mercado Negro inspirandome en Mercado Libre**. Permite a los usuario crear tiendas para publicar artículos y venderlos, y también les permite realizar comprar
 
 ## Tecnologías utilizadas
 
